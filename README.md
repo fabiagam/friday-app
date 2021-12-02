@@ -9,8 +9,10 @@ Kindly ensure the machine to be used in launching this project  has NodeJS >= v1
 
 **Stack Requirements**  
 ```
-1. NodeJs 14.6 or >= and npm 8.1.0
-2. Sqlite
+1. NodeJS 14.6 or >= and npm 8.1.0
+2. Yarn
+3.React 16.x
+4. NextJS v12.x
 ```
 
 **How to run this app**  
